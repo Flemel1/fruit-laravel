@@ -1,0 +1,17 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../images/hero-image.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.fruit-card {
+    background-color: #FDFCFC;
+    border: 1px #CFC7C7 solid;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+}
